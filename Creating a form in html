@@ -1,0 +1,14 @@
+<html>
+<head> <title> Filling the form </title> </head>
+<body>
+<form>
+First name:<input type="Text"><br>
+Second name:<input type="Text"><br>
+Email address:<input type="Text"><br>
+Password:<input type="Password"><br>
+<input type="Radio" name="Gender">Male
+<input type="Radio" name="Gender">Female
+<input type"button" value"Submit form">
+</form>
+</body>
+</html>
